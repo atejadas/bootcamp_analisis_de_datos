@@ -28,4 +28,4 @@ Algunas fechas tienen descuentos específicos que deben aplicarse automáticamen
 Transporte, tours y actividades pueden incluirse en la reserva.
 
 # Modelo entidad relación
-[](https://github.com/atejadas/bootcamp_analisis_de_datos/blob/main/Diagrama%20E-R.jpg)
+https://github.com/atejadas/bootcamp_analisis_de_datos/blob/main/Diagrama%20E-R.jpg
