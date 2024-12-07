@@ -1,6 +1,6 @@
 # Tema: Reservas de alojamiento en una cadena hotelera
 
-Maryjen necesita un sistema que permita a los usuarios realizar reservas en sus hoteles a través de una plataforma digital. El sistema debe gestionar las habitaciones disponibles, los paquetes de alojamiento, los datos de los clientes y las reservas, considerando detalles como fechas, promociones y servicios adicionales.
+Maryjen necesita un sistema que permita a los usuarios realizar reservas en sus hoteles a través de una plataforma digital. El sistema debe gestionar las habitaciones disponibles, los paquetes de alojamiento, los datos de los clientes y las reservas, considerando detalles como fechas y promociones.
 
 ## Requerimientos
 
@@ -23,9 +23,6 @@ Un cliente puede tener múltiples reservas.
 
 Algunas fechas tienen descuentos específicos que deben aplicarse automáticamente.
 
-**Servicios Adicionales:**
-
-Transporte, tours y actividades pueden incluirse en la reserva.
 
 # Modelo entidad relación
 ![](https://github.com/atejadas/bootcamp_analisis_de_datos/blob/main/Diagrama%20E-R.jpg)
