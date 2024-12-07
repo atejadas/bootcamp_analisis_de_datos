@@ -30,5 +30,5 @@ Transporte, tours y actividades pueden incluirse en la reserva.
 # Modelo entidad relación
 ![](https://github.com/atejadas/bootcamp_analisis_de_datos/blob/main/Diagrama%20E-R.jpg)
 
-# Modelo lófico
+# Modelo lógico
 ![](https://github.com/atejadas/bootcamp_analisis_de_datos/blob/main/diagrama_logico_reservas.png)
