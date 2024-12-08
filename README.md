@@ -25,7 +25,7 @@ Algunas fechas tienen descuentos específicos que deben aplicarse automáticamen
 
 
 # Modelo entidad relación
-![](https://github.com/atejadas/bootcamp_analisis_de_datos/modelo conceptual.jpg)
+![](https://github.com/atejadas/bootcamp_analisis_de_datos/blob/49535faea27fe8ccd6072ebbb2443cdf5d3c7967/modelo%20conceptual.jpg)
 
 # Modelo lógico
 ![](https://github.com/atejadas/bootcamp_analisis_de_datos/modelo logico.jpg)
