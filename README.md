@@ -28,4 +28,4 @@ Algunas fechas tienen descuentos específicos que deben aplicarse automáticamen
 ![](https://github.com/atejadas/bootcamp_analisis_de_datos/blob/49535faea27fe8ccd6072ebbb2443cdf5d3c7967/modelo%20conceptual.jpg)
 
 # Modelo lógico
-![](https://github.com/atejadas/bootcamp_analisis_de_datos/modelo logico.jpg)
+![](https://github.com/atejadas/bootcamp_analisis_de_datos/blob/34b99d8a80b9ba1e0e0b3aff9583638cfb0060dc/modelo%20logico.jpg)
